@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikeya-annamraju&label=Profile%20views&color=0e75b6&style=flat" alt="karthikeya-annamraju" /> </p>
 
-- 📫 How to reach me **karthikeya.avs@gmail.com**
+- 📫 How to reach me **avkarthikeya.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
