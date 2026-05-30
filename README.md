@@ -1,5 +1,5 @@
-<h1 align="center">Hey There👋, I'm Karthikeya Annamraju</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h1 align="center">Hey, I'm Sai Karthik Annamraju</h1>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikeya-annamraju&label=Profile%20views&color=0e75b6&style=flat" alt="karthikeya-annamraju" /> </p>
 
